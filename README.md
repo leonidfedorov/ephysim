@@ -1,2 +1,2 @@
 # ephysim
-Simulation of Electrophysiological Signals
+Simulation of Electrophysiological Signals.
